@@ -8,7 +8,7 @@ const App = () => {
     "DragonFruit",
     "PassionFruit",
     "tomato",
-    "Banana",
+    "lichi",
   ];
   return (
     <div>
