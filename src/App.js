@@ -2,14 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 const App = () => {
-  let fruitList = [
-    "Apple",
-    "Mango",
-    "DragonFruit",
-    "PassionFruit",
-    "tomato",
-    "lichi",
-  ];
+  let fruitList = ["Apple"];
   return (
     <div>
       <h1>
