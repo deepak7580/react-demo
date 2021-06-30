@@ -32,6 +32,7 @@ const App = () => {
       ))}
       <input type="button" value="INCREMENT" onClick={increment} />
       <input type="text" value={counter}></input>
+      <div>😄</div>
     </div>
   );
 };
